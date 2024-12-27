@@ -3,11 +3,11 @@
 
 - 🔭 Image Super Resolution [https://github.com/quaqducc/RestoraVision](https://github.com/quaqducc/RestoraVision)
 
-- 🌱 I’m currently learning **DSAI at HUST**
+- 🤝 Virtual Classification Painter [a](a)
 
 - 👯 Football Resolution [https://github.com/DSAI-Creator/Football-Match-Prediction](https://github.com/DSAI-Creator/Football-Match-Prediction)
 
-- 🤝 Virtual Classification Painter [a](a)
+- - 🌱 I’m currently learning **DSAI at HUST**.
 
 - 📫 How to reach me **quangduc3122004@gmail.com**
 
