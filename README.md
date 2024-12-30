@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm quaqducc</h1>
 <h3 align="center">DS&AI student</h3>
 
-- 🔭 Image Super Resolution [https://github.com/quaqducc/RestoraVision](https://github.com/quaqducc/RestoraVision)
+- 🔭 Image Super Resolution [RestoraVision](https://github.com/quaqducc/RestoraVision)
 
-- 🤝 Virtual Classification Painter [a](https://github.com/quaqducc/VirtualPainter-Classifier)
+- 🤝 Virtual Classification Painter [Virtual Painter](https://github.com/quaqducc/VirtualPainter-Classifier)
 
-- 👯 Football Resolution [https://github.com/DSAI-Creator/Football-Match-Prediction](https://github.com/DSAI-Creator/Football-Match-Prediction)
+- 👯 Football Resolution [Football-Match-Prediction](https://github.com/DSAI-Creator/Football-Match-Prediction)
 
 - - 🌱 I’m currently learning **DSAI at HUST**.
 
