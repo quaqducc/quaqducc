@@ -7,7 +7,7 @@
 
 - 👯 Football Resolution [Football-Match-Prediction](https://github.com/DSAI-Creator/Football-Match-Prediction)
 
-- - 🌱 I’m currently learning **DSAI at HUST**.
+- 🌱 I’m currently learning **DSAI at HUST**.
 
 - 📫 How to reach me **quangduc3122004@gmail.com**
 
